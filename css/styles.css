@@ -1,0 +1,54 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: purple;  
+}
+
+::-webkit-input-placeholder {
+  color: #ebebeb;
+}
+
+p {
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+}
+
+#name, #quote, #author, #nameInput {
+  text-transform: lowercase;
+}
+
+.result,
+#questions {
+  position: absolute;
+  bottom: 60px;
+  padding: 65px 25px;
+  color: #ebebeb;
+}
+
+#name {
+  font: 75px "Trebuchet MS", Helvetica, sans-serif;
+  margin-bottom: 0;
+}
+
+#quote {
+  font: 45px "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#author {
+  font: 25px "Trebuchet MS", Helvetica, sans-serif;
+  font-style: italic;
+}
+
+#nameInput {
+  background: none;
+  font: 75px "Trebuchet MS", Helvetica, sans-serif;
+  font-weight: 300;
+  outline: none;
+  border: none;
+  color: #ebebeb;
+}
+
+.infoText {
+  font: 25px "Trebuchet MS", Helvetica, sans-serif;
+  color: #ebebeb;
+}
