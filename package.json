@@ -1,7 +1,6 @@
 {
   "name": "motivation",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^3.3.6",
@@ -9,9 +8,11 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Kali Cornn",
+  "license": "ISC",
+  "description": ""
 }
