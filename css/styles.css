@@ -4,13 +4,16 @@ html, body {
   background: purple;  
 }
 
-::-webkit-input-placeholder {
+::-webkit-input-placeholder,
+::-moz-input-placeholder {
   color: #ebebeb;
 }
 
 p {
   -webkit-margin-before: 0em;
   -webkit-margin-after: 0em;
+  -moz-margin-before: 0em;
+  -moz-margin-after: 0em;
 }
 
 #name, #quote, #author, #nameInput {
