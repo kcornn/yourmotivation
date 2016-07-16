@@ -8,7 +8,7 @@ body {
   color: #ebebeb;
 }
 
-p {
+p, input {
   -webkit-margin-before: 0em;
   -webkit-margin-after: 0em;
 }
