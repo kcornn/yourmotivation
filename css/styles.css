@@ -72,9 +72,10 @@ p {
   position: absolute;
   font: 20px "Trebuchet MS", Helvetica, sans-serif;
   color: #ebebeb;
-  bottom: 30px;
+  bottom: 0px;
   padding: 65px 25px;
 }
+
 .small a {
   font-weight: bold;
 }
