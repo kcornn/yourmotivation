@@ -112,4 +112,13 @@ form {
     width: 150px;
     height: 150px;
   }
+  .name {
+    font-size: 60px;
+  }
+  .quote {
+    font-size: 32px;
+  }
+  .author {
+    font-size: 20px;
+  }
 }
