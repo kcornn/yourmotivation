@@ -80,6 +80,7 @@ form {
 #nameInput {
   background: none;
   font: 75px "Trebuchet MS", Helvetica, sans-serif;
+  text-align:center;
   font-weight: 300;
   outline: none;
   border: none;
