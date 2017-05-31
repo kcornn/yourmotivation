@@ -1,4 +1,4 @@
-html, body {
+html {
   padding: 0;
   margin: 0;
   background: #C41E3A;
@@ -9,6 +9,10 @@ html, body {
   background: -webkit-linear-gradient(#f9c2cc,#C41E3A);
   background: -moz-linear-gradient(#f9c2cc,#C41E3A);
   background: -linear-gradient(#f9c2cc,#C41E3A);
+}
+
+body {
+  color: #fff;
 }
 
 ::-webkit-input-placeholder,
