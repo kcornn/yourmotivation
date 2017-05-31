@@ -54,7 +54,8 @@ p {
 }
 
 form {
-  bottom: 100px;
+  margin-top:auto;
+  margin-bottom:auto;
   padding: 65px 25px;
   color: #ebebeb;
 }
