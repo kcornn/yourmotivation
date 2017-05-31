@@ -17,8 +17,8 @@ p {
 }
 
 .name, 
-.quote, .
-.author, .
+.quote,
+.author,
 .nameInput {
   text-transform: lowercase;
 }
