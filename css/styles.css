@@ -69,10 +69,12 @@ p {
 
 .small {
   position: absolute;
+  text-align: center;
   font: 16px "Trebuchet MS", Helvetica, sans-serif;
   color: #ebebeb;
   bottom: 0px;
-  padding: 65px 25px;
+  left: 0px;
+  width: 100%;
 }
 
 .small a {
