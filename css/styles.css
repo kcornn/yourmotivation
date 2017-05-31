@@ -42,7 +42,12 @@ p {
   text-transform: lowercase;
 }
 
-.result,
+.result {
+  bottom: 100px;
+  padding: 65px 25px;
+  color: #ebebeb;
+}
+
 #questions {
   bottom: 100px;
   padding: 65px 25px;
