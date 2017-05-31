@@ -16,7 +16,10 @@ p {
   -moz-margin-after: 0em;
 }
 
-#name, #quote, #author, #nameInput {
+.name, 
+.quote, .
+.author, .
+.nameInput {
   text-transform: lowercase;
 }
 
@@ -28,21 +31,21 @@ p {
   color: #ebebeb;
 }
 
-#name {
+.name {
   font: 75px "Trebuchet MS", Helvetica, sans-serif;
   margin-bottom: 0;
 }
 
-#quote {
+.quote {
   font: 45px "Trebuchet MS", Helvetica, sans-serif;
 }
 
-#author {
+.author {
   font: 25px "Trebuchet MS", Helvetica, sans-serif;
   font-style: italic;
 }
 
-#nameInput {
+.nameInput {
   background: none;
   font: 75px "Trebuchet MS", Helvetica, sans-serif;
   font-weight: 300;
@@ -55,4 +58,11 @@ p {
 .infoText {
   font: 25px "Trebuchet MS", Helvetica, sans-serif;
   color: #ebebeb;
+}
+
+.small {
+  font-size: 20px;
+}
+.small a {
+  font-weight: bold;
 }
