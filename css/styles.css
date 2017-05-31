@@ -50,7 +50,7 @@ p {
 
 .result {
   bottom: 100px;
-  padding: 65px 25px;
+  padding: 50px 25px;
   color: #ebebeb;
 }
 
@@ -59,7 +59,7 @@ form {
   margin-top:auto;
   margin-bottom:auto;
   width:100%;
-  padding: 65px 25px;
+  padding: 50px 25px;
   color: #ebebeb;
 }
 
