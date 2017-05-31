@@ -59,7 +59,7 @@ $(document).ready(function() {
         $(".quote").text(val);
         $(".author").text('--' + key);
       }
-      var randomImg = parseInt(Math.random() * 10) + 1;
+      var randomImg = parseInt(Math.random() * 14) + 1;
       $("#chibird").attr("src", "img/chibird" + randomImg + ".png");
     }
   });
