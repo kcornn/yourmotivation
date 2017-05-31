@@ -106,3 +106,10 @@ form {
 .small a {
   font-weight: bold;
 }
+
+@media screen and (max-width:480px) {
+  #chibird {
+    width: 150px;
+    height: 150px;
+  }
+}
