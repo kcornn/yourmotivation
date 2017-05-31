@@ -12,7 +12,9 @@ var quotesArr = [{"Les Brown": "Shoot for the moon. Even if you miss, you'll lan
     {"Walt Disney": "The way to get started is to quit talking and begin doing"},
     {"Will Rogers": "Don't let yesterday take up too much of today"},
     {"Steve Jobs": "If you are working on something exciting that you really care about, you don’t have to be pushed. The vision pulls you."},
-    {"Unknown": "Success comes in cans, not cant's"}
+    {"Unknown": "Success comes in cans, not cant's"},
+    {"Unknown": "The difference between try and triumph is a little umph."},
+    {"Unknown": "When the world says, \"Give up,\" Hope whispers, \"Try it one more time.\""}
     ]
 $(document).ready(function() {
   var keyPressed = false;
