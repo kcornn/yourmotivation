@@ -58,6 +58,7 @@ form {
   display:block;
   margin-top:auto;
   margin-bottom:auto;
+  width:100%;
   padding: 65px 25px;
   color: #ebebeb;
 }
