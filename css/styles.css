@@ -62,6 +62,8 @@ p {
 
 .small {
   font-size: 20px;
+  bottom: 30px;
+  padding: 65px 25px;
 }
 .small a {
   font-weight: bold;
