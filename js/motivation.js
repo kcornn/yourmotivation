@@ -11,7 +11,8 @@ var quotesArr = [{"Les Brown": "Shoot for the moon. Even if you miss, you'll lan
     {"Henry Ford": "Don't find fault. Find a remedy."},
     {"Walt Disney": "The way to get started is to quit talking and begin doing"},
     {"Will Rogers": "Don't let yesterday take up too much of today"},
-    {"Steve Jobs": "If you are working on something exciting that you really care about, you don’t have to be pushed. The vision pulls you."}
+    {"Steve Jobs": "If you are working on something exciting that you really care about, you don’t have to be pushed. The vision pulls you."},
+    {"Unknown": "Success comes in cans, not cant's"}
     ]
 $(document).ready(function() {
   var keyPressed = false;
